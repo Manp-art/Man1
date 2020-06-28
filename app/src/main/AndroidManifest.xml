@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.learninglanguage.app">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".LevelThreeLearningAnimalsActivity"></activity>
+        <activity android:name=".LevelTwoTestingShapesActivity" />
+        <activity android:name=".LevelTwoTestingColorsActivity" />
+        <activity android:name=".LevelTwoTestingAnimalsActivity" />
+        <activity android:name=".LevelTwoLearningShapesActivity" />
+        <activity android:name=".LevelTwoLearningColorsActivity" />
+        <activity android:name=".LevelTwoLearningAnimalsActivity" />
+        <activity android:name=".ControlPanel.LevelOneSettingsActivity" />
+        <activity android:name=".LevelOneTestingShapesActivity" />
+        <activity android:name=".LevelOneTestingColorsActivity" />
+        <activity android:name=".AdminActivity" />
+        <activity android:name=".LevelOneTestingActivity" />
+        <activity android:name=".LevelOneLearningShapesActivity" />
+        <activity android:name=".LevelOneLearningAnimalsActivity" />
+        <activity android:name=".LevelOneLearningColorsActivity" />
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".HomeActivity" />
+        <activity
+            android:name=".SplashScreenActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

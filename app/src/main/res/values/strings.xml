@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Learning Language</string>
+    <string name="app_name1">Learning</string>
+    <string name="app_name2">Language</string>
+
+    <string name="title_activity_fullscreen">Splash Screen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="start">Start</string>
+    <string name="next">Next</string>
+    <string name="level_description">Level Description</string>
+    <string name="login">Login</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="haveaccount">Have an account? Login</string>
+    <string name="dontheveaccount">Don\'t have an account? Register</string>
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="lesson">Animals</string>
+    <string name="dog">Dog</string>
+    <string name="card_description">Card Description</string>
+    <string name="colors">Colors</string>
+    <string name="shapes">Shapes</string>
+    <string name="test1animal">Test 01</string>
+    <string name="instructions">Select the correct image for voice cut.</string>
+    <string name="sample_name">Dog</string>
+    <string name="test1colors">Test 02</string>
+    <string name="test1shapes">Test 03</string>
+    <string name="control_panel">Control Panel</string>
+    <string name="level_01">Level 01</string>
+    <string name="question_settings">Questions Settings</string>
+    <string name="level_02">Level 02</string>
+    <string name="level_03">Level 03</string>
+    <string name="level_01_settings">Level 01 Settings</string>
+    <string name="animals">Animals</string>
+    <string name="first">First</string>
+    <string name="second">Second</string>
+</resources>

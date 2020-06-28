@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "298327768462",
+    "firebase_url": "https://learning-language-64dd3.firebaseio.com",
+    "project_id": "learning-language-64dd3",
+    "storage_bucket": "learning-language-64dd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298327768462:android:77b31d77e78e96878838df",
+        "android_client_info": {
+          "package_name": "com.learninglanguage.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298327768462-g6fppslq5l9i518cdjcm96acoepo4nt7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.learninglanguage.app",
+            "certificate_hash": "e85d2541f616d457df4c0158496336cdcb9d27a3"
+          }
+        },
+        {
+          "client_id": "298327768462-d29q28ns3jtvcdh3kgndq4famlp06lfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOQTo7HRAUcOFTUU_mgpfurY6HIRbLWD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298327768462-d29q28ns3jtvcdh3kgndq4famlp06lfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
